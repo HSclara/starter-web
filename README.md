@@ -17,3 +17,7 @@ xx
 ## Last section
 
 UPS
+
+## Copyright
+
+Copyright notice
