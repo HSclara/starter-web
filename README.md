@@ -10,6 +10,11 @@ This a test README
 
 Sample website with plenty of files for demos
 
+## Contribute
+
+Send money
+
+
 ## One More
 
 xx
