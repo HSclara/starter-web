@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Henrique   henrique.silva@pt.clara.net  @HSclara
 
 # THANKS
 
